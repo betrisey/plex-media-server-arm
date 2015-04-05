@@ -8,8 +8,8 @@
 # Contributor: George Stelle <stelleg@gmail.com>
 
 pkgname=plex-media-server
-pkgver=0.9.11.7.803
-_pkgsum=87d0708
+pkgver=0.9.11.16.958
+_pkgsum=80f1748
 pkgrel=1
 pkgdesc='Plex Media Server'
 arch=('i686' 'x86_64' 'arm')
